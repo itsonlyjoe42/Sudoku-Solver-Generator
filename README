@@ -1,2 +1,4 @@
-This is a simple sudoku solver/generator. It will attempt to solve using very basic techniques, and it will generate sudokus that can be solved in this way.
+These are simple sudoku solvers/generators. They will attempt to solve using very basic techniques, and can generate sudokus that can be solved in this way.
 This is not fast, but I wanted it to give random sudokus every time.
+
+I will create a brute force method that will find a solution if a unique solution exists.
